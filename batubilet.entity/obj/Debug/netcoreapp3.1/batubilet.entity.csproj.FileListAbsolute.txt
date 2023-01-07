@@ -1,0 +1,9 @@
+C:\Users\batuh\Desktop\batubilet\batubilet.entity\bin\Debug\netcoreapp3.1\batubilet.entity.deps.json
+C:\Users\batuh\Desktop\batubilet\batubilet.entity\bin\Debug\netcoreapp3.1\batubilet.entity.dll
+C:\Users\batuh\Desktop\batubilet\batubilet.entity\bin\Debug\netcoreapp3.1\batubilet.entity.pdb
+C:\Users\batuh\Desktop\batubilet\batubilet.entity\obj\Debug\netcoreapp3.1\batubilet.entity.AssemblyInfoInputs.cache
+C:\Users\batuh\Desktop\batubilet\batubilet.entity\obj\Debug\netcoreapp3.1\batubilet.entity.AssemblyInfo.cs
+C:\Users\batuh\Desktop\batubilet\batubilet.entity\obj\Debug\netcoreapp3.1\batubilet.entity.csproj.CoreCompileInputs.cache
+C:\Users\batuh\Desktop\batubilet\batubilet.entity\obj\Debug\netcoreapp3.1\batubilet.entity.dll
+C:\Users\batuh\Desktop\batubilet\batubilet.entity\obj\Debug\netcoreapp3.1\batubilet.entity.pdb
+C:\Users\batuh\Desktop\batubilet\batubilet.entity\obj\Debug\netcoreapp3.1\batubilet.entity.csprojAssemblyReference.cache

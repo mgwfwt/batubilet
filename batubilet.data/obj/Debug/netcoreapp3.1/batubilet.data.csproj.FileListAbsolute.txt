@@ -1,0 +1,15 @@
+C:\Users\batuh\Desktop\batubilet\batubilet.data\bin\Debug\netcoreapp3.1\batubilet.data.deps.json
+C:\Users\batuh\Desktop\batubilet\batubilet.data\bin\Debug\netcoreapp3.1\batubilet.data.runtimeconfig.json
+C:\Users\batuh\Desktop\batubilet\batubilet.data\bin\Debug\netcoreapp3.1\batubilet.data.runtimeconfig.dev.json
+C:\Users\batuh\Desktop\batubilet\batubilet.data\bin\Debug\netcoreapp3.1\batubilet.data.dll
+C:\Users\batuh\Desktop\batubilet\batubilet.data\bin\Debug\netcoreapp3.1\batubilet.data.pdb
+C:\Users\batuh\Desktop\batubilet\batubilet.data\bin\Debug\netcoreapp3.1\batubilet.entity.dll
+C:\Users\batuh\Desktop\batubilet\batubilet.data\bin\Debug\netcoreapp3.1\batubilet.entity.pdb
+C:\Users\batuh\Desktop\batubilet\batubilet.data\obj\Debug\netcoreapp3.1\batubilet.data.csprojAssemblyReference.cache
+C:\Users\batuh\Desktop\batubilet\batubilet.data\obj\Debug\netcoreapp3.1\batubilet.data.AssemblyInfoInputs.cache
+C:\Users\batuh\Desktop\batubilet\batubilet.data\obj\Debug\netcoreapp3.1\batubilet.data.AssemblyInfo.cs
+C:\Users\batuh\Desktop\batubilet\batubilet.data\obj\Debug\netcoreapp3.1\batubilet.data.csproj.CoreCompileInputs.cache
+C:\Users\batuh\Desktop\batubilet\batubilet.data\obj\Debug\netcoreapp3.1\batubilet.data.csproj.CopyComplete
+C:\Users\batuh\Desktop\batubilet\batubilet.data\obj\Debug\netcoreapp3.1\batubilet.data.dll
+C:\Users\batuh\Desktop\batubilet\batubilet.data\obj\Debug\netcoreapp3.1\batubilet.data.pdb
+C:\Users\batuh\Desktop\batubilet\batubilet.data\obj\Debug\netcoreapp3.1\batubilet.data.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\batuh\Desktop\batubilet\batubilet.business\bin\Debug\netcoreapp3.1\batubilet.business.deps.json
+C:\Users\batuh\Desktop\batubilet\batubilet.business\bin\Debug\netcoreapp3.1\batubilet.business.dll
+C:\Users\batuh\Desktop\batubilet\batubilet.business\bin\Debug\netcoreapp3.1\batubilet.business.pdb
+C:\Users\batuh\Desktop\batubilet\batubilet.business\bin\Debug\netcoreapp3.1\batubilet.data.dll
+C:\Users\batuh\Desktop\batubilet\batubilet.business\bin\Debug\netcoreapp3.1\batubilet.entity.dll
+C:\Users\batuh\Desktop\batubilet\batubilet.business\bin\Debug\netcoreapp3.1\batubilet.data.pdb
+C:\Users\batuh\Desktop\batubilet\batubilet.business\bin\Debug\netcoreapp3.1\batubilet.entity.pdb
+C:\Users\batuh\Desktop\batubilet\batubilet.business\obj\Debug\netcoreapp3.1\batubilet.business.csprojAssemblyReference.cache
+C:\Users\batuh\Desktop\batubilet\batubilet.business\obj\Debug\netcoreapp3.1\batubilet.business.AssemblyInfoInputs.cache
+C:\Users\batuh\Desktop\batubilet\batubilet.business\obj\Debug\netcoreapp3.1\batubilet.business.AssemblyInfo.cs
+C:\Users\batuh\Desktop\batubilet\batubilet.business\obj\Debug\netcoreapp3.1\batubilet.business.csproj.CoreCompileInputs.cache
+C:\Users\batuh\Desktop\batubilet\batubilet.business\obj\Debug\netcoreapp3.1\batubilet.business.csproj.CopyComplete
+C:\Users\batuh\Desktop\batubilet\batubilet.business\obj\Debug\netcoreapp3.1\batubilet.business.dll
+C:\Users\batuh\Desktop\batubilet\batubilet.business\obj\Debug\netcoreapp3.1\batubilet.business.pdb
